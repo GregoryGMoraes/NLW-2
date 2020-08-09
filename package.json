@@ -1,0 +1,26 @@
+{
+  "name": "NLW-2",
+  "version": "1.0.0",
+  "description": "Repositório onde será desenvolvido uma aplicação web aprendida na NLW#2 - Next Level Week #2 que será disponibilizado pela RocketSeat  em agosto de 2020 de 03/08 à 08/08.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GregoryGMoraes/NLW-2.git"
+  },
+  "keywords": [],
+  "author": "Grégory Moraes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GregoryGMoraes/NLW-2/issues"
+  },
+  "homepage": "https://github.com/GregoryGMoraes/NLW-2#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
